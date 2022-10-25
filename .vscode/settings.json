@@ -24,4 +24,12 @@
 
   "javascript.suggest.autoImports": true,
   "typescript.suggest.autoImports": true,
+  "conventionalCommits.scopes": [
+    "Personas",
+    "DataFixtures",
+    "PHPUnit Testes Automatizados",
+    "SGED",
+    "MIDIA",
+    "Developement"
+  ],
 }
